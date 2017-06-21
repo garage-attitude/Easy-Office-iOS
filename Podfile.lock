@@ -1,0 +1,15 @@
+PODS:
+  - EstimoteSDK (4.16.0)
+  - Socket.IO-Client-Swift (10.0.1)
+
+DEPENDENCIES:
+  - EstimoteSDK
+  - Socket.IO-Client-Swift (~> 10.0.1)
+
+SPEC CHECKSUMS:
+  EstimoteSDK: 7ac27c86a8f9ceb7c99e5d3802d99508f7c4f7ce
+  Socket.IO-Client-Swift: f6553633ba6a01df8f1c8b583ec36560901e9de6
+
+PODFILE CHECKSUM: 36a8b3db8b1680fcbcc9d79fca96f34710928fd5
+
+COCOAPODS: 1.2.1
